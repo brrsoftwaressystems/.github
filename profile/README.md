@@ -1,6 +1,6 @@
 ## Welcome to BRRSOFTWARES Systems Private Limited public repositories !!!
 
-We are IT Startup established i the year 2020 to help small businesses to succeed with use of AI and ML technologies.We will empower the organisations, with digital transformation and Artificial Intelligence.
+We are IT Startup established in the year 2020 to help small businesses to succeed with use of AI and ML technologies.We will empower the organisations, with digital transformation and Artificial Intelligence.
 
 The power of AI, will unlock huge opportunities for the existing businesses and also in the Startup ecosystem.
 
